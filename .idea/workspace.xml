@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3275b94c-ac27-4749-b10b-47f1c18f7b08" name="Default Changelist" comment="" />
+    <list default="true" id="3275b94c-ac27-4749-b10b-47f1c18f7b08" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,70 +20,118 @@
       <executable path="composer" />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tdd@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tdd@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tdd@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="tdd: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/TestCase.php">
+        <entry file="file://$PROJECT_DIR$/tests/Feature/ExampleTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/Unit/ExampleTest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codeception.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/Unit/TryTest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/CreatesApplication.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-109">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            <state relative-caret-position="283">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/Feature/ExampleTest.php">
+        <entry file="file://$PROJECT_DIR$/tests/Unit/UserModeTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+            <state relative-caret-position="283">
+              <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+              <folding>
+                <element signature="e#30#85#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/phpunit/phpunit/phpunit">
+        <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap/app.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-448">
+              <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/12013ba2-3385-4e9f-b1a3-a3fc9fa6908c/console.sql">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitattributes">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="das://12013ba2-3385-4e9f-b1a3-a3fc9fa6908c/schema/tdd/table/users">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state projectRestartId="f2a1c9a5-fac7-47f4-9bcc-42e1da8b7c4a">
+              <filtering>
+                <filter text="" />
+              </filtering>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-140">
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -85,15 +139,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="283">
               <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.phpunit.result.cache">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="116" selection-start-column="116" selection-end-column="116" />
             </state>
           </provider>
         </entry>
@@ -120,6 +165,10 @@
         <option value="$PROJECT_DIR$/tests/Unit/TryTest.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/tests/Feature/ExampleTest.php" />
+        <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/bootstrap/app.php" />
+        <option value="$PROJECT_DIR$/app/User.php" />
+        <option value="$PROJECT_DIR$/tests/Unit/UserModeTest.php" />
       </list>
     </option>
   </component>
@@ -226,13 +275,6 @@
       <path value="$PROJECT_DIR$/vendor/codeception/stub" />
     </include_path>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="766" />
     <option name="width" value="841" />
@@ -259,6 +301,22 @@
             <path>
               <item name="TDD" type="b2602c69:ProjectViewProjectNode" />
               <item name="TDD" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TDD" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TDD" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TDD" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -266,6 +324,12 @@
               <item name="TDD" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
               <item name="Feature" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TDD" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -275,8 +339,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/vendor/bin/phpunit.bat&#10;E:/xampp/htdocs/TDD/.phpunit.result.cache&#10;E:/xampp/htdocs/TDD/vendor/bin/psysh.bat" />
+    <property name="database.console.LAST_STATE" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/Unit" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -308,7 +375,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHPUnit.ExampleTest.testBasicTest">
+  <component name="RunManager" selected="PHPUnit.UserModeTest.user_has_full_name_attribute">
     <configuration name="ExampleTest.php" type="CodeceptionConfigurationType" factoryName="Codeception" temporary="true">
       <PhpTestRunnerSettings file="$PROJECT_DIR$/tests/Unit/ExampleTest.php" scope="File" />
       <method v="2" />
@@ -337,8 +404,8 @@
       <TestRunner class="Tests\Feature\ExampleTest" file="$PROJECT_DIR$/tests/Feature/ExampleTest.php" method="test_about_route_return_something" scope="Method" />
       <method v="2" />
     </configuration>
-    <configuration name="TryTest.testSum" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Tests\Unit\TryTest" file="$PROJECT_DIR$/tests/Unit/TryTest.php" method="testSum" scope="Method" />
+    <configuration name="UserModeTest.user_has_full_name_attribute" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Unit\UserModeTest" file="$PROJECT_DIR$/tests/Unit/UserModeTest.php" method="user_has_full_name_attribute" scope="Method" />
       <method v="2" />
     </configuration>
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -347,11 +414,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHPUnit.UserModeTest.user_has_full_name_attribute" />
         <item itemvalue="Codeception.ExampleTest.php::test_about_route_return_something" />
         <item itemvalue="PHPUnit.ExampleTest.test_about_route_return_something" />
         <item itemvalue="Codeception.ExampleTest.php::sr" />
         <item itemvalue="Codeception.ExampleTest.php" />
-        <item itemvalue="PHPUnit.TryTest.testSum" />
       </list>
     </recent_temporary>
   </component>
@@ -367,44 +434,44 @@
       <updated>1586366482959</updated>
       <workItem from="1586366502707" duration="15526000" />
       <workItem from="1586427557226" duration="6833000" />
-      <workItem from="1586519192313" duration="8784000" />
+      <workItem from="1586519192313" duration="13737000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ExampleTest_php__test_about_route_return_something - 2020.04.10 at 19h 25m 54s.xml">
-      <configuration name="ExampleTest.php::test_about_route_return_something" configurationId="CodeceptionConfigurationType" />
-    </history-entry>
-    <history-entry file="ExampleTest_php__test_about_route_return_something - 2020.04.10 at 19h 25m 58s.xml">
-      <configuration name="ExampleTest.php::test_about_route_return_something" configurationId="CodeceptionConfigurationType" />
-    </history-entry>
-    <history-entry file="ExampleTest_test_about_route_return_something - 2020.04.10 at 19h 26m 03s.xml">
-      <configuration name="ExampleTest.test_about_route_return_something" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="ExampleTest_php__test_about_route_return_something - 2020.04.10 at 19h 26m 18s.xml">
-      <configuration name="ExampleTest.php::test_about_route_return_something" configurationId="CodeceptionConfigurationType" />
-    </history-entry>
-    <history-entry file="ExampleTest_php__test_about_route_return_something - 2020.04.10 at 19h 26m 54s.xml">
-      <configuration name="ExampleTest.php::test_about_route_return_something" configurationId="CodeceptionConfigurationType" />
-    </history-entry>
-    <history-entry file="ExampleTest_test_about_route_return_something - 2020.04.10 at 19h 27m 21s.xml">
-      <configuration name="ExampleTest.test_about_route_return_something" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="ExampleTest_test_about_route_return_something - 2020.04.10 at 19h 27m 38s.xml">
-      <configuration name="ExampleTest.test_about_route_return_something" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="ExampleTest_test_about_route_return_something - 2020.04.10 at 19h 31m 20s.xml">
-      <configuration name="ExampleTest.test_about_route_return_something" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
     <history-entry file="ExampleTest_php__test_about_route_return_something - 2020.04.10 at 19h 48m 11s.xml">
       <configuration name="ExampleTest.php::test_about_route_return_something" configurationId="CodeceptionConfigurationType" />
     </history-entry>
     <history-entry file="ExampleTest_testBasicTest - 2020.04.10 at 19h 51m 39s.xml">
       <configuration name="ExampleTest.testBasicTest" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
+    <history-entry file="ExampleTest_testBasicTest - 2020.04.10 at 19h 57m 01s.xml">
+      <configuration name="ExampleTest.testBasicTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UserModeTest_user_has_full_name_attribute - 2020.04.10 at 21h 01m 31s.xml">
+      <configuration name="UserModeTest.user_has_full_name_attribute" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UserModeTest_user_has_full_name_attribute - 2020.04.10 at 21h 02m 04s.xml">
+      <configuration name="UserModeTest.user_has_full_name_attribute" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UserModeTest_user_has_full_name_attribute - 2020.04.10 at 21h 08m 07s.xml">
+      <configuration name="UserModeTest.user_has_full_name_attribute" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UserModeTest_user_has_full_name_attribute - 2020.04.10 at 21h 14m 29s.xml">
+      <configuration name="UserModeTest.user_has_full_name_attribute" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UserModeTest_user_has_full_name_attribute - 2020.04.10 at 21h 16m 44s.xml">
+      <configuration name="UserModeTest.user_has_full_name_attribute" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UserModeTest_user_has_full_name_attribute - 2020.04.10 at 21h 17m 41s.xml">
+      <configuration name="UserModeTest.user_has_full_name_attribute" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UserModeTest_user_has_full_name_attribute - 2020.04.10 at 21h 18m 58s.xml">
+      <configuration name="UserModeTest.user_has_full_name_attribute" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31143000" />
+    <option name="totallyTimeSpent" value="36096000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -419,10 +486,11 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" weight="0.32922536" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.7112676" />
@@ -431,14 +499,14 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32922536" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32922536" />
+      <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32922536" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.48415494" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="3" weight="0.24205749" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
     </layout>
     <layout-to-restore>
@@ -474,20 +542,6 @@
     <SUITE FILE_PATH="coverage/TDD$TryTest_php.xml" NAME="TryTest.php Coverage Results" MODIFIED="1586537350513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-56">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2019_08_19_000000_create_failed_jobs_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-56">
@@ -520,13 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -660,8 +707,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/Feature/ExampleTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+        <state relative-caret-position="283">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/12013ba2-3385-4e9f-b1a3-a3fc9fa6908c/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://12013ba2-3385-4e9f-b1a3-a3fc9fa6908c/schema/tdd/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="f2a1c9a5-fac7-47f4-9bcc-42e1da8b7c4a">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-448">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Unit/UserModeTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+          <folding>
+            <element signature="e#30#85#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

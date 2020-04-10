@@ -27,6 +27,4 @@ class ExampleTest extends TestCase
         // if contains 'About'
         $response->assertSee('About');
     }
-
-
 }
